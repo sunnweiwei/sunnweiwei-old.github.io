@@ -10,7 +10,7 @@ We all make choices, but in the end our choices make us.
 
 
 
-**Conversations Powered by Cross-Lingual Knowledge**. **Weiwei Sun**, Chuan Meng, Qi Meng, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Maarten de Rijke. In SIGIR'21.
+**Conversations Powered by Cross-Lingual Knowledge**. **Weiwei Sun**, Chuan Meng, Qi Meng, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Maarten de Rijke. In SIGIR'21. [[paper]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/sun-2021-conversations.pdf) [[code]](https://github.com/sunnweiwei/ckgc)
 
 
 
