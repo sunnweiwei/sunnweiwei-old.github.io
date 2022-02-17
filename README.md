@@ -2,8 +2,9 @@
 
 https://sunnweiwei.github.io/
 
-We all make choices, but in the end our choices make us.
+Sun Weiwei (孙维纬)
 
+Knowledge Grounded Conversation, Evaluation of Dialogue Systems, Natural Language Processing, Information Retrieval.
 
 
 ## Publications
