@@ -24,7 +24,7 @@ I am a a MSc student student at Shandong University, promoters: Prof. dr [Zhaoch
 
 - **Generative Knowledge Selection for Knowledge-Grounded Dialogues**. **Weiwei Sun**, Pengjie Ren, Zhaochun Ren. In EACL 2023 Findings.
 
-- **Metaphorical User Simulators for Evaluating Task-oriented Dialogue Systems**. Weiwei Sun, Shuyu Guo, Shuo Zhang, Pengjie Ren, Zhumin Chen, Maarten de Rijke, Zhaochun Ren.  In ACM TOIS 2023.
+- **Metaphorical User Simulators for Evaluating Task-oriented Dialogue Systems**. **Weiwei Sun**, Shuyu Guo, Shuo Zhang, Pengjie Ren, Zhumin Chen, Maarten de Rijke, Zhaochun Ren.  In ACM TOIS 2023.
 
 - **Contrastive Learning Reduces Hallucination in Conversations**. **Weiwei Sun**, Zhengliang Shi, Shen Gao, Pengjie Ren, Maarten de Rijke, Zhaochun Ren. In AAAI 2023.
 
@@ -32,7 +32,7 @@ I am a a MSc student student at Shandong University, promoters: Prof. dr [Zhaoch
 
 - **Simulating User Satisfaction for the Evaluation of Task-oriented Dialogue Systems**. **Weiwei Sun**, Shuo Zhang, Krisztian Balog, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Maarten de Rijke. In SIGIR 2021.
 
-- **DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation**. Chuan Meng, Pengjie Ren, Zhumin Chen, **Weiwei Sun**, Zhaochun Ren, Zhaopeng Tu, Maarten de Rijke. In SIGIR 2021.
+- **DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation**. Chuan Meng, Pengjie Ren, Zhumin Chen, **Weiwei Sun**, Zhaochun Ren, Zhaopeng Tu, Maarten de Rijke. In SIGIR 2020.
 
 
 ## Academic Services
