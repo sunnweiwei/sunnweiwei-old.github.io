@@ -10,7 +10,7 @@ I am a a MSc student student at Shandong University, promoters: Prof. dr [Zhaoch
 
 ## Working Experience
 
-- **Baidu Inc.**  Research Internship, Search Science Team. Mentor: [Lingyong Yan](https://yanlingyong.top/). Sep 2022 – Present.
+- **Baidu Inc.**  Research Internship, Search Science Team. Mentor: [Lingyong Yan](https://yanlingyong.top/) and [Xinyu Ma](https://albert-ma.github.io/). Sep 2022 – Present.
 - **JD.com** Internship, Data Science Lab. Mentor: [Hongshen Chen](https://www.chenhongshen.com/) and [Hengyi Cai](https://www.caihengyi.com/). Mar 2021 – Sep 2021.
 
 
