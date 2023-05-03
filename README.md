@@ -20,6 +20,10 @@ I am a a MSc student student at Shandong University, promoters: Prof. dr [Zhaoch
 
 - **Learning to Tokenize for Generative Retrieval**. **Weiwei Sun**, Lingyong Yan, Zheng Chen, Shuaiqiang Wang, Haichao Zhu, Pengjie Ren, Zhumin Chen.  Preprint at arXiv:2304.04171.
 
+- **Answering Ambiguous Questions via Iterative Prompting**. **Weiwei Sun**, Hengyi Cai, Hongshen Chen, Pengjie Ren, Zhumin Chen, Maarten de Rijke, Zhaochun Ren. In ACL 2023.
+
+- **RADE: Reference-Assisted Dialogue Evaluation for Open-Domain Dialogue**. Zhengliang Shi, **Weiwei Sun**, Shuo Zhang, Zhen Zhang, Pengjie Ren, Zhaochun Ren. In ACL 2023.
+
 - **Towards Explainable Conversational Recommender Systems**. Shuyu Guo, Shuo Zhang, **Weiwei Sun**, Pengjie Ren, Zhumin Chen, Zhaochun Ren. In SIGIR 2023.
 
 - **Generative Knowledge Selection for Knowledge-Grounded Dialogues**. **Weiwei Sun**, Pengjie Ren, Zhaochun Ren. In EACL 2023 Findings.
