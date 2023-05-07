@@ -18,7 +18,7 @@ I am a a MSc student student at Shandong University, promoters: Prof. dr [Zhaoch
 
 - **Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent**. **Weiwei Sun**, Lingyong Yan, Xinyu Ma, Pengjie Ren, Dawei Yin, Zhaochun Ren. Preprint at arXiv:2304.09542.
 
-- **Learning to Tokenize for Generative Retrieval**. **Weiwei Sun**, Lingyong Yan, Zheng Chen, Shuaiqiang Wang, Haichao Zhu, Pengjie Ren, Zhumin Chen.  Preprint at arXiv:2304.04171.
+- **Learning to Tokenize for Generative Retrieval**. **Weiwei Sun**, Lingyong Yan, Zheng Chen, Shuaiqiang Wang, Haichao Zhu, Pengjie Ren, Zhumin Chen, Maarten de Rijke, Zhaochun Ren.  Preprint at arXiv:2304.04171.
 
 - **Answering Ambiguous Questions via Iterative Prompting**. **Weiwei Sun**, Hengyi Cai, Hongshen Chen, Pengjie Ren, Zhumin Chen, Maarten de Rijke, Zhaochun Ren. In ACL 2023.
 
