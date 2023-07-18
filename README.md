@@ -1,6 +1,6 @@
 # Weiwei Sun
 
-I am a a MSc student student at Shandong University, supervised by Prof. [Zhaochun Ren](https://ir.sdu.edu.cn/~zhaochunren/).
+I am a second-year MSc student student at Shandong University, supervised by Prof. [Zhaochun Ren](https://ir.sdu.edu.cn/~zhaochunren/).
 
 
 ## Education
