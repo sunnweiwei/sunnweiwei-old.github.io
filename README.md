@@ -1,6 +1,6 @@
 # Weiwei Sun
 
-I am a second-year MSc student student at Shandong University, supervised by Prof. [Zhaochun Ren](https://ir.sdu.edu.cn/~zhaochunren/).
+I am a second-year MSc student student at Shandong University, supervised by Prof. [Zhaochun Ren](https://scholar.google.com/citations?user=fPcIPt0AAAAJ&hl=en).
 
 
 ## Education
@@ -11,7 +11,7 @@ I am a second-year MSc student student at Shandong University, supervised by Pro
 ## Working Experience
 
 - **Baidu Inc.**  Research Internship, Search Science Team. Mentor: [Lingyong Yan](https://yanlingyong.top/) and [Xinyu Ma](https://albert-ma.github.io/). Sep 2022 – Present.
-- **JD.com** Internship, Data Science Lab. Mentor: [Hongshen Chen](https://www.chenhongshen.com/) and [Hengyi Cai](https://www.caihengyi.com/). Mar 2021 – Sep 2021.
+- **JD.com** Research Internship, Data Science Lab. Mentor: [Hongshen Chen](https://www.chenhongshen.com/) and [Hengyi Cai](https://www.caihengyi.com/). Mar 2021 – Sep 2021.
 
 
 ## Publications
@@ -40,5 +40,5 @@ I am a second-year MSc student student at Shandong University, supervised by Pro
 
 
 ## Academic Services
-PC Member of EMNLP-22, ACL-23, SIGIR-23, ECML/PKDD-23, IPM-23
+PC Member of EMNLP-22, ACL-23, SIGIR-23, ECML/PKDD-23, IPM-23, WSDM-23, EMNLP-23
  
