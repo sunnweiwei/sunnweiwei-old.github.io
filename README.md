@@ -1,6 +1,6 @@
 # Weiwei Sun
 
-I am a second-year MSc student student at Shandong University, supervised by Prof. [Zhaochun Ren](https://scholar.google.com/citations?user=fPcIPt0AAAAJ&hl=en).
+I am a second-year MSc student at Shandong University, supervised by Prof. [Zhaochun Ren](https://scholar.google.com/citations?user=fPcIPt0AAAAJ&hl=en).
 
 [Twitter](https://twitter.com/sunweiwei12), [Google Scholar](https://scholar.google.com/citations?user=hdUZbxgAAAAJ&hl=en), [Github](https://github.com/sunnweiwei), [Linkin](https://www.linkedin.com/in/sunweiwei)
 
