@@ -7,8 +7,8 @@ I am a second-year MSc student at Shandong University, supervised by Prof. [Zhao
 
 ## Education
 
-- **Shandong University**, China. Master of Science in Computer Science, School of Computer Science and Technology. Sep 2021 – Jul 2024
-- **Shandong University**, China. Bachelor of Science in Computer Science, School of Computer Science and Technology.  Sep 2017 – Jul 2021
+- **Shandong University**, China. MSc, Computer Science. Sep 2021 – Jul 2024
+- **Shandong University**, China. BSc, Computer Science. Sep 2017 – Jul 2021
 
 ## Working Experience
 
