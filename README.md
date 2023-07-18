@@ -1,6 +1,6 @@
-# Sun Weiwei (孙维纬)
+# Weiwei Sun
 
-I am a a MSc student student at Shandong University, promoters: Prof. dr [Zhaochun Ren](https://ir.sdu.edu.cn/~zhaochunren/). My current research interest is in improving information retrieval (IR) systems using large language models (LLMs). 
+I am a a MSc student student at Shandong University, supervised by Prof. [Zhaochun Ren](https://ir.sdu.edu.cn/~zhaochunren/).
 
 
 ## Education
@@ -20,11 +20,11 @@ I am a a MSc student student at Shandong University, promoters: Prof. dr [Zhaoch
 
 - **Learning to Tokenize for Generative Retrieval.** **Weiwei Sun**, Lingyong Yan, Zheng Chen, Shuaiqiang Wang, Haichao Zhu, Pengjie Ren, Zhumin Chen, Maarten de Rijke, Zhaochun Ren.  Preprint at arXiv:2304.04171. [Paper](https://arxiv.org/abs/2304.04171)
 
-- **Answering Ambiguous Questions via Iterative Prompting.** **Weiwei Sun**, Hengyi Cai, Hongshen Chen, Pengjie Ren, Zhumin Chen, Maarten de Rijke, Zhaochun Ren. In ACL 2023.
+- **Answering Ambiguous Questions via Iterative Prompting.** **Weiwei Sun**, Hengyi Cai, Hongshen Chen, Pengjie Ren, Zhumin Chen, Maarten de Rijke, Zhaochun Ren. In ACL 2023. [Paper](https://arxiv.org/abs/2307.03897), [Code](https://github.com/sunnweiwei/AmbigPrompt)
 
-- **RADE: Reference-Assisted Dialogue Evaluation for Open-Domain Dialogue.** Zhengliang Shi, **Weiwei Sun**, Shuo Zhang, Zhen Zhang, Pengjie Ren, Zhaochun Ren. In ACL 2023.
+- **RADE: Reference-Assisted Dialogue Evaluation for Open-Domain Dialogue.** Zhengliang Shi, **Weiwei Sun**, Shuo Zhang, Zhen Zhang, Pengjie Ren, Zhaochun Ren. In ACL 2023. [Paper](https://aclanthology.org/2023.acl-long.719), [Code](https://github.com/shizhl/RADE)
 
-- **Towards Explainable Conversational Recommender Systems.** Shuyu Guo, Shuo Zhang, **Weiwei Sun**, Pengjie Ren, Zhumin Chen, Zhaochun Ren. In SIGIR 2023. [Paper](https://imsure318.github.io/assets/pdf/2023_sigir_resource.pdf), [Code](https://github.com/Superbooming/E-Redial)
+- **Towards Explainable Conversational Recommender Systems.** Shuyu Guo, Shuo Zhang, **Weiwei Sun**, Pengjie Ren, Zhumin Chen, Zhaochun Ren. In SIGIR 2023. [Paper](https://arxiv.org/abs/2305.18363), [Code](https://github.com/Superbooming/E-Redial)
 
 - **Generative Knowledge Selection for Knowledge-Grounded Dialogues.** **Weiwei Sun**, Pengjie Ren, Zhaochun Ren. In EACL 2023 Findings. [Paper](https://arxiv.org/abs/2304.04836), [Code](https://github.com/sunnweiwei/GenKS)
 
