@@ -4,6 +4,8 @@ I am a second-year MSc student at Shandong University, supervised by Prof. [Zhao
 
 [Twitter](https://twitter.com/sunweiwei12), [Google Scholar](https://scholar.google.com/citations?user=hdUZbxgAAAAJ&hl=en), [Github](https://github.com/sunnweiwei), [Linkin](https://www.linkedin.com/in/sunweiwei)
 
+Contact: sunnweiwei@gmail.com
+
 
 ## Education
 
